@@ -15,6 +15,10 @@
 /client/coverage
 /server/coverage
 
+# environment variables
+/server/.env
+
+
 # production
 /build
 /server/build
